@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39654d04-8b8a-49ab-885b-1fe336cde240" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Games/CK-full-compile/project.json.nomin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/project.json.nomin" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Games/CK-full-compile/src/CookieClick.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Games/CK-full-compile/src/GameOver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Games/CK-full-compile/src/globals.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Games/CK-full-compile/src/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Games/CK-full-compile/src/resource.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Games/CK-full-compile/src/CookieClick-min.js" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/src/CookieClick-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-pre-compiled/src/CookieClick.js" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/src/CookieClick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-full-compile/index.html" afterPath="$PROJECT_DIR$/Games/CK-full-compile/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-pre-compiled/index.html" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-pre-compiled/src/main.js" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/src/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-full-compile/manifest.appcache" afterPath="$PROJECT_DIR$/Games/CK-full-compile/manifest.appcache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-pre-compiled/manifest.appcache" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/manifest.appcache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-full-compile/project.json" afterPath="$PROJECT_DIR$/Games/CK-full-compile/project.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-pre-compiled/project.json" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/project.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-pre-compiled/src/resource.js" afterPath="$PROJECT_DIR$/Games/CK-pre-compiled/src/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Games/cocos2d-html5.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games/CK-full-compile/build.xml" afterPath="$PROJECT_DIR$/Games/CK-full-compile/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="minify-test-ck.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,24 +27,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="-15.5" vertical-offset="303" max-vertical-offset="855">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.78798586" vertical-offset="6" max-vertical-offset="855">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CookieClick.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/src/CookieClick.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="335" column="0" selection-start="12178" selection-end="12178" vertical-scroll-proportion="0.0" vertical-offset="4920" max-vertical-offset="10890">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="1.3680981" vertical-offset="6" max-vertical-offset="855">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="13" column="2" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="855">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,7 +66,7 @@
       <file leaf-file-name="project.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="45" selection-start="160" selection-end="160" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+            <state line="6" column="45" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -84,7 +75,7 @@
       <file leaf-file-name="project.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="42" selection-start="204" selection-end="204" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="8" column="42" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -109,11 +100,12 @@
         <option value="$PROJECT_DIR$/Games/CK-pre-compiled/src/CookieClick.js" />
         <option value="$PROJECT_DIR$/Games/CK-full-compile/src/resource.js" />
         <option value="$PROJECT_DIR$/Games/CK-full-compile/src/main.js" />
-        <option value="$PROJECT_DIR$/Games/CK-full-compile/src/CookieClick.js" />
         <option value="$PROJECT_DIR$/Games/CK-pre-compiled/index.html" />
         <option value="$PROJECT_DIR$/Games/CK-full-compile/index.html" />
         <option value="$PROJECT_DIR$/Games/CK-full-compile/project.json" />
         <option value="$PROJECT_DIR$/Games/CK-pre-compiled/project.json" />
+        <option value="$PROJECT_DIR$/Games/CK-full-compile/build.xml" />
+        <option value="$PROJECT_DIR$/Games/CK-full-compile/src/CookieClick.js" />
       </list>
     </option>
   </component>
@@ -164,6 +156,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="minify-test-ck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="minify-test-ck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="minify-test-ck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Games" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,17 +268,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
       <recent name="$PROJECT_DIR$/Games/CK-full-compile" />
       <recent name="$PROJECT_DIR$/Games/CK-pre-compiled/src" />
       <recent name="$PROJECT_DIR$/Games/CK-pre-compiled" />
       <recent name="$PROJECT_DIR$/Games/CK-full-compile/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Games" />
       <recent name="$PROJECT_DIR$/Games/CK-pre-compiled" />
       <recent name="$PROJECT_DIR$/Games/CK-full-compile" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/minify-test-ck/Games/CK-full-compile/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -321,8 +333,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -342,10 +354,9 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39955604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -353,6 +364,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -375,39 +387,96 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/manifest.appcache">
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/manifest.appcache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="14" selection-start="249" selection-end="249" vertical-scroll-proportion="0.14258555" vertical-offset="0" max-vertical-offset="526">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="53" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+        <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/src/CookieClick.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="329" column="41" selection-start="12120" selection-end="12120" vertical-scroll-proportion="-189.8077" vertical-offset="0" max-vertical-offset="10890">
+        <state line="335" column="0" selection-start="12178" selection-end="12178" vertical-scroll-proportion="0.0" vertical-offset="4920" max-vertical-offset="10890">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/project.json.nomin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="42" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="303" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/project.json.nomin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="42" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/manifest.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/manifest.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="14" selection-start="14" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/src/main.js">
@@ -420,22 +489,6 @@
     <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="0" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.30545455" vertical-offset="297" max-vertical-offset="1470">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="-15.5" vertical-offset="303" max-vertical-offset="855">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="61" selection-start="16009" selection-end="16009" vertical-scroll-proportion="6.1684785" vertical-offset="0" max-vertical-offset="3705">
           <folding />
         </state>
       </provider>
@@ -456,24 +509,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/project.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="42" selection-start="204" selection-end="204" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
+        <state line="8" column="42" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/project.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="160" selection-end="160" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+        <state line="6" column="45" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="10" selection-start="818" selection-end="818" vertical-scroll-proportion="0.3533569" vertical-offset="0" max-vertical-offset="849">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="38" selection-start="220" selection-end="220" vertical-scroll-proportion="0.053003535" vertical-offset="15" max-vertical-offset="3750">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Games/CK-pre-compiled/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="1.3680981" vertical-offset="6" max-vertical-offset="855">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="13" column="2" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/src/CookieClick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="335" column="0" selection-start="12178" selection-end="12178" vertical-scroll-proportion="0.0" vertical-offset="4920" max-vertical-offset="10890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/CK-full-compile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="4" selection-start="1651" selection-end="1716" vertical-scroll-proportion="0.78798586" vertical-offset="6" max-vertical-offset="855">
+          <folding />
         </state>
       </provider>
     </entry>

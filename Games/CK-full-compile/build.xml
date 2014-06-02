@@ -6,6 +6,9 @@
     <target name="compile">
         <jscomp compilationLevel="advanced" warning="quiet"
                 debug="false" output="./src/CookieClick-min.js">
+            <externs dir="./../../libs/cocos2d-html5/cocos2d">
+                <file name="core/cocos2d_externs.js"/>
+            </externs>
             <sources dir="./../../libs/cocos2d-html5">
                 <file name="Base64Images.js"/>
                 <file name="CCBoot.js"/>
