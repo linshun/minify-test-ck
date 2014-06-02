@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 27-05-2014 12:45
+# 02-06-2014 17:00
 
 CACHE:
 
@@ -41,8 +41,6 @@ res/fonts/Rockwell.ttf
 res/fonts/RockwellBold.ttf
 
 #misc
-.idea/libraries/CocosDenshion.xml
-.idea/scopes/scope_settings.xml
 project.json
 
 NETWORK:

@@ -321,10 +321,6 @@ var CookieClickLayer = cc.Layer.extend({
         droppingCookieBar.setScaleX(droppingCookieStretch);
         bonusBar.setScaleX(bonusStretch);
 
-        var share = cc.Sprite.create(shareImage);
-        share.setScale(0.25, 0.25);
-        share.setPosition(cc.p(winSize.width/2, winSize.height/6));
-
         this.addChild(droppingCookieBar);
         this.addChild(droppingCookieBarIcon);
         this.addChild(bonusBar);
@@ -332,7 +328,6 @@ var CookieClickLayer = cc.Layer.extend({
         this.addChild(store.spriteButton);
         this.addChild(moreGames);
         this.addChild(freeCookiesButton);
-        this.addChild(share);
 
 
 
@@ -485,7 +480,6 @@ var CookieClickLayer = cc.Layer.extend({
         if (location.x > moreGames.getPosition().x - moreGames.getBoundingBox().width / 2 && location.x < moreGames.getPosition().x + moreGames.getBoundingBox().width / 2 &&
             location.y > moreGames.getPosition().y - moreGames.getBoundingBox().height / 2 && location.y < moreGames.getPosition().y + moreGames.getBoundingBox().height / 2) {
 
-                ga('send', 'event', 'CookieClick', 'MoreGames');
                 this.moreGamesSite();
         }
 
@@ -677,7 +671,6 @@ var CookieClickLayer = cc.Layer.extend({
     moreGamesSite:function(){
         cc.log("moreGamesSiteFunction");
         console.log("consoleMoreGamesSite");
-        ga('send', 'event', 'CookieClick', 'MoreGames');
     }
 
 
@@ -721,7 +714,6 @@ var HUDLayer = cc.Layer.extend({
 var CookieClickScene = cc.Scene.extend({
 	onEnter:function(){
 
-        ga('send', 'event', 'CookieClick', 'onEnter');
 		this._super();
 		this.addChild(new CookieClickLayer(), 0, TagOfLayer.cookieClickLayer);
         this.addChild(new HUDLayer(), 0, TagOfLayer.hudLayer);

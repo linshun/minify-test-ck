@@ -5,9 +5,6 @@ cc.game.onStart = function(){
     cc.view.resizeWithBrowserSize(true);
     cc.view.setDesignResolutionSize(1440, 1920, cc.ResolutionPolicy.SHOW_ALL);
 
-    var title = document.getElementById('title');
-    title.parentNode.removeChild(title);
-
     //cc.loader.resPath = "srcSprites";
 
     // turn on display FPS

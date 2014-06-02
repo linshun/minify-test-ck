@@ -25,13 +25,11 @@ var wave_normal = "res/images/wave_normal.png";
 
 var freeCookiesButtonImage = "res/images/freecookiesButton.png";
 var freeCookiesButtonPressedImage = "res/images/freecookiesButtonPressed.png";
-var shareImage = "../../websiteImages/facebookShare.png";
 
 //use window["variable"] for variable reading
 
 var cookie_resources = [
 
-    "../../websiteImages/facebookShare.png",
     "res/images/freecookiesButton.png",
     "res/images/freecookiesButtonPressed.png",
 
