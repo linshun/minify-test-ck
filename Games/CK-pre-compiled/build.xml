@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<project name="Javascript compress project" basedir="." default="compile">
+
+    <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
+             classpath="./../../libs/compiler.jar"/>
+    <target name="compile">
+        <jscomp compilationLevel="advanced" warning="quiet"
+                debug="false" output="./src/CookieClick-min.js">
+            <sources dir="./../../libs/">
+                <file name="cocos2d-html5-min.js"/>
+            </sources>
+            <sources dir="./src/">
+                <file name="globals.js"/>
+                <file name="resource.js"/>
+                <file name="GameOver.js"/>
+                <file name="CookieClick.js"/>
+                <file name="main.js"/>
+            </sources>
+        </jscomp>
+    </target>
+</project>

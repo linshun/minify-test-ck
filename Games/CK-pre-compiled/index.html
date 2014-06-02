@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--<html lang="en">-->
+<html lang="en" manifest="manifest.appcache">
+
+<head>
+    <meta charset="utf-8">
+    <title>Cokie Click</title>
+    <meta name="description" content="Free Game Cookie Click can be played online now. Huge success on Google Play and Apple Appstore  is a Top Free Game for mobile browsers as well">
+    <link rel="icon" type="image/GIF" href="res/favicon.ico"/>
+    <meta name="viewport" content="width=321,user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="yes"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <style>
+        body, canvas, div {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+    </style>
+</head>
+<body style="padding:0; margin: 0; background: lightgray;">
+
+<span id="title">
+<header>
+    <center>
+        <hgroup>
+            <h1 class="main title"  style="position: absolute; top: 10%; left: 5%">
+                <font size="4"> Free Game Cookie Click</font>
+            </h1>
+
+        </hgroup>
+    </center>
+</header>
+</span>
+
+<div id="loading" style="position: absolute; top: 50%; left: 50%; width: 300px; height: 300px; margin-top: -150px;  margin-left: -150px;">
+    <img src="res/images/loading.gif">
+</div>
+<canvas id="gameCanvas" width="540" height="720"></canvas>
+<!--<script src="../../libs/cocos2d-html5-alpha-min.js"></script>-->
+<script src="src/CookieClick-min.js"></script>
+
+</body>
+</html>
