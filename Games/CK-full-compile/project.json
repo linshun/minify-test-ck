@@ -1,10 +1,19 @@
 {
+    "project_type": "javascript",
+
     "debugMode" : 1,
     "showFPS" : false,
     "frameRate" : 60,
     "id" : "gameCanvas",
     "renderMode" : 0,
-    "engineDir" : "../../libs/cocos2d-html5",
+    "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["core", "audio", "menus"]
+    "modules" : ["core", "audio", "menus"],
+
+    "jsList" : [
+        "src/globals.js",
+        "src/resource.js",
+        "src/GameOver.js",
+        "src/CookieClick.js"
+    ]
 }
